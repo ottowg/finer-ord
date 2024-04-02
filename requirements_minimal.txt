@@ -1,0 +1,9 @@
+## add your torch version. this is torch 1.12.0 with cuda 11.6 and c python 3.9 for debian linux
+# https://download.pytorch.org/whl/torch_stable.html
+https://download.pytorch.org/whl/cu116/torch-1.12.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+notebook==6.5.2
+tner==0.2.4
+datasets==2.18.0
+ipykernel==6.29.4
+evaluate==0.4.0
+tabulate==0.9.0
